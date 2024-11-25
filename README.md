@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/99066d0b-d3ca-40b3-b022-eae0fb3fae06" width="250"> 
+</p>
+
 ## Технологии
 
 - **Язык программирования:** Java  
